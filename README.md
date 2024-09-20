@@ -7,5 +7,5 @@ Psychophysical task animal/non-animal rapid categorization.
    
 3. The code is also included.
 
-* This project was completed as part of the Introduction to Neuroscience course.
+This project was completed as part of the Introduction to Neuroscience course.
 
